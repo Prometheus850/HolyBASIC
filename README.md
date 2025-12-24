@@ -16,6 +16,16 @@
 
 ---
 
+## Platform
+
+HolyBASIC is developed and tested only on Linux.
+Other systems are not supported.
+
+This is not a limitation.
+This is a choice.
+
+---
+
 ## ⚠️ Status
 
 HolyBASIC is experimental and buggy by nature.
