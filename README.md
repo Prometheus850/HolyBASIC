@@ -19,11 +19,12 @@
 ## 🔹 Example Program — The Jesus Prayer
 
 ```basic
-PROCLAIM Prayer = "Lord Jesus Christ, Son of God, have mercy on me, a sinner."
+PROCLAIM A = "Lord Jesus Christ, Son of God, have mercy on me, a sinner"
+
 BLESS "Starting the sacred chant…"
 
 CHANT I = 1
-    BLESS Prayer
-ENDCHANT 100  ; Repeat the prayer 100 times
+    BLESS A
+ENDCHANT 100
 
 DEATH
