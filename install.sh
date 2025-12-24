@@ -1,1 +1,1 @@
-sudo cp holybasic /usr/local/bin/
+sudo cp HolyBASIC /usr/local/bin/
