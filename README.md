@@ -16,6 +16,15 @@
 
 ---
 
+## ⚠️ Status
+
+HolyBASIC is experimental and buggy by nature.
+
+Some behaviors that look like bugs are intentional
+and considered part of the language philosophy.
+
+---
+
 ## 🔹 Example Program — The Jesus Prayer
 
 ```basic
